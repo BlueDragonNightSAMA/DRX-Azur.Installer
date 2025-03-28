@@ -9,13 +9,6 @@
 -----
 
 <div align="center">
-    <h2>
-DFW(DRX.Framework)<img alt="Static Badge" src="https://img.shields.io/badge/DRX-DFW?style=flat&logo=%23006699&logoColor=%232200ff&logoSize=auto&label=DFW&labelColor=%23a80000&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Flxyesa%2FDRX.Environment%2Ftree%2Fmaster%2FDRX.Framework"> 该项目用于对所有DRX项目提供开发环境支持
-    </h2>
-</div>
-
------
-<div align="center">
 <h2>蓝龙Azurmardraco:  This is a texture mod installer for DyingLight1 ...  </h2>
 具体的教程请看 https://www.bilibili.com/video/BV1ixZLYWE2K/ 记得给我关注三联!
 </div>
